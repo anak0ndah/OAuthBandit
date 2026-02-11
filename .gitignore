@@ -1,0 +1,11 @@
+bin/
+obj/
+export/
+publish/
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+.vs/
+*.log
